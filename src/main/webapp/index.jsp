@@ -4,7 +4,7 @@
 
 <a href="http://www.youtube.com/@LearnWithKASTRO"><font color='green'> Hello Everyone's my name is Suraj Verma. <font></a>
 
-<p>
+<p><font color='purple'>
 Skill
 
 Description
@@ -111,7 +111,7 @@ Certification
 DevOps Certifiactions on AWS, Azure or GCP
 Platform Engineering
 
-</p>
+<font></p>
   
   <h2> Thank you</h2>
   
